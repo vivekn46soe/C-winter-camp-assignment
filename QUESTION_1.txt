@@ -1,0 +1,33 @@
+A.    7211048
+B.   char occupies 1 bytes
+     int occupies 4 bytes
+     float occupies 4 bytes
+
+C.  a = 33000b = 1
+    4 4
+
+D.  a = 33000b = 1
+    4 4
+
+E.  syntax error 
+F.  don't know
+G.  syntax error 
+H.  p = 1 q = 1 
+I.  c = 1
+J.  I have robbed and killed...
+K.  ans = 1  
+L.  ans = 200
+M.  Pilots are on strike...
+N.  k = 200
+O.  infinite loop  
+P.  2 
+    4 
+    6 
+    ..
+    ...
+    till 256
+Q.  x = 'd y = 3 z = 9
+R.  x = 4z = 1
+S.  x = 2y = 1z = 1
+T.  syntax error 
+U.  prints nothing(blank space)
